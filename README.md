@@ -1,5 +1,7 @@
 # GenAI Career Assistant: A Multi-Agent Approach
 
+<img src="multiagent.png" alt="GenAI Career Assistant Architecture" width="500">
+
 ## Table of Contents
 
 - [Demo](#demo)
